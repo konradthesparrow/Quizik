@@ -4,6 +4,7 @@ fs.writeFile("message.txt", "Hello Node", (err) => {
   console.log("The file has been saved!");
 });*/
 var content = "aaa"
+upload();
 async function upload() {
   const message = 'amogus';
   const content = 'aaaaa';
